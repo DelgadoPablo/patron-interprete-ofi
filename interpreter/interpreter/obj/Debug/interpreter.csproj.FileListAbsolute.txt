@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\interpreter\interpreter\bin\Debug\interpreter.exe.config
+C:\Users\USUARIO\source\repos\interpreter\interpreter\bin\Debug\interpreter.exe
+C:\Users\USUARIO\source\repos\interpreter\interpreter\bin\Debug\interpreter.pdb
+C:\Users\USUARIO\source\repos\interpreter\interpreter\obj\Debug\interpreter.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\interpreter\interpreter\obj\Debug\interpreter.exe
+C:\Users\USUARIO\source\repos\interpreter\interpreter\obj\Debug\interpreter.pdb
